@@ -1,3 +1,3 @@
 # jtmorelandwebsite
 
-Personal Webpage- jtmoreland.com
+Personal Webpage- www.jtmoreland.com
