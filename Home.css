@@ -2,6 +2,7 @@
   background-image: url("images/20230416_161055.jpg?rand=714a");
   background-position: 50% 50%;
   background-size: cover;
+  background-attachment: fixed;
 }
 
 .u-section-1 .u-sheet-1 {
