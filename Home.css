@@ -18,7 +18,7 @@
   --animation-custom_in-scale: 1;
   height: auto;
   background-image: none;
-  margin: 502px auto 60px;
+  margin: 144px auto 60px;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -65,7 +65,3 @@
     width: 340px;
   }
 }
-
-body {
-  overflow: hidden;
-  }
