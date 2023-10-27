@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for J.T. Moreland	</title>
-	<atom:link href="/https://jtmoreland.com//comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://jtmoreland.com/</link>
+	<atom:link href="https://ohdricky.github.io/jtmorelandwebsite//comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ohdricky.github.io/jtmorelandwebsite/</link>
 	<description></description>
 	<lastBuildDate>Fri, 27 Oct 2023 19:04:49 +0000</lastBuildDate>
 	<sy:updatePeriod>
