@@ -9,8 +9,8 @@
 
 <channel>
 	<title>J.T. Moreland</title>
-	<atom:link href="https://jtmoreland.com//feed/" rel="self" type="application/rss+xml" />
-	<link>https://jtmoreland.com/</link>
+	<atom:link href="https://jtmoreland.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://jtmoreland.com</link>
 	<description></description>
 	<lastBuildDate>Fri, 27 Oct 2023 19:04:49 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.3.2</generator>
 
 <image>
-	<url>https://jtmoreland.com//wp-content/uploads/2023/10/cropped-marigold-32x32.png</url>
+	<url>https://jtmoreland.com/wp-content/uploads/2023/10/cropped-marigold-32x32.png</url>
 	<title>J.T. Moreland</title>
-	<link>https://jtmoreland.com/</link>
+	<link>https://jtmoreland.com</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Nature #1</title>
-		<link>https://jtmoreland.com//2023/10/27/nature-1/</link>
+		<link>https://jtmoreland.com/2023/10/27/nature-1/</link>
 		
 		<dc:creator><![CDATA[J.T.]]></dc:creator>
 		<pubDate>Fri, 27 Oct 2023 19:04:49 +0000</pubDate>
 				<category><![CDATA[Nature Photography]]></category>
-		<guid isPermaLink="false">https://jtmoreland.com//?p=132</guid>
+		<guid isPermaLink="false">https://jtmoreland.com/?p=132</guid>
 
 					<description><![CDATA[Fall is in full swing! I&#8217;m so excited to capture more photos of vibrant oranges, yellows, and reds.]]></description>
 										<content:encoded><![CDATA[
@@ -44,13 +44,13 @@
 
 <div class="wp-block-columns is-layout-flex wp-container-3 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-large"><img decoding="async" fetchpriority="high" width="768" height="1024" src="https://jtmoreland.com//wp-content/uploads/2023/10/20231025_172149-768x1024.jpg" alt="" class="wp-image-134" srcset="https://jtmoreland.com//wp-content/uploads/2023/10/20231025_172149-768x1024.jpg 768w, https://jtmoreland.com//wp-content/uploads/2023/10/20231025_172149-225x300.jpg 225w, https://jtmoreland.com//wp-content/uploads/2023/10/20231025_172149-1152x1536.jpg 1152w, https://jtmoreland.com//wp-content/uploads/2023/10/20231025_172149-rotated.jpg 1440w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" fetchpriority="high" width="768" height="1024" src="https://jtmoreland.com/wp-content/uploads/2023/10/20231025_172149-768x1024.jpg" alt="" class="wp-image-134" srcset="https://jtmoreland.com/wp-content/uploads/2023/10/20231025_172149-768x1024.jpg 768w, https://jtmoreland.com/wp-content/uploads/2023/10/20231025_172149-225x300.jpg 225w, https://jtmoreland.com/wp-content/uploads/2023/10/20231025_172149-1152x1536.jpg 1152w, https://jtmoreland.com/wp-content/uploads/2023/10/20231025_172149-rotated.jpg 1440w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
 </div>
 
 
 
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-large"><img decoding="async" width="768" height="1024" src="https://jtmoreland.com//wp-content/uploads/2023/10/20231025_172026-768x1024.jpg" alt="" class="wp-image-135" srcset="https://jtmoreland.com//wp-content/uploads/2023/10/20231025_172026-768x1024.jpg 768w, https://jtmoreland.com//wp-content/uploads/2023/10/20231025_172026-225x300.jpg 225w, https://jtmoreland.com//wp-content/uploads/2023/10/20231025_172026-1152x1536.jpg 1152w, https://jtmoreland.com//wp-content/uploads/2023/10/20231025_172026-rotated.jpg 1332w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="768" height="1024" src="https://jtmoreland.com/wp-content/uploads/2023/10/20231025_172026-768x1024.jpg" alt="" class="wp-image-135" srcset="https://jtmoreland.com/wp-content/uploads/2023/10/20231025_172026-768x1024.jpg 768w, https://jtmoreland.com/wp-content/uploads/2023/10/20231025_172026-225x300.jpg 225w, https://jtmoreland.com/wp-content/uploads/2023/10/20231025_172026-1152x1536.jpg 1152w, https://jtmoreland.com/wp-content/uploads/2023/10/20231025_172026-rotated.jpg 1332w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
 </div>
 </div>
 
@@ -58,13 +58,13 @@
 
 <div class="wp-block-columns is-layout-flex wp-container-6 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-large"><img decoding="async" width="768" height="1024" src="https://jtmoreland.com//wp-content/uploads/2023/10/20231025_172810-1-768x1024.jpg" alt="" class="wp-image-136" srcset="https://jtmoreland.com//wp-content/uploads/2023/10/20231025_172810-1-768x1024.jpg 768w, https://jtmoreland.com//wp-content/uploads/2023/10/20231025_172810-1-225x300.jpg 225w, https://jtmoreland.com//wp-content/uploads/2023/10/20231025_172810-1-rotated.jpg 1147w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="768" height="1024" src="https://jtmoreland.com/wp-content/uploads/2023/10/20231025_172810-1-768x1024.jpg" alt="" class="wp-image-136" srcset="https://jtmoreland.com/wp-content/uploads/2023/10/20231025_172810-1-768x1024.jpg 768w, https://jtmoreland.com/wp-content/uploads/2023/10/20231025_172810-1-225x300.jpg 225w, https://jtmoreland.com/wp-content/uploads/2023/10/20231025_172810-1-rotated.jpg 1147w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
 </div>
 
 
 
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="768" height="1024" src="https://jtmoreland.com//wp-content/uploads/2023/10/20231025_171520-768x1024.jpg" alt="" class="wp-image-137" srcset="https://jtmoreland.com//wp-content/uploads/2023/10/20231025_171520-768x1024.jpg 768w, https://jtmoreland.com//wp-content/uploads/2023/10/20231025_171520-225x300.jpg 225w, https://jtmoreland.com//wp-content/uploads/2023/10/20231025_171520-1152x1536.jpg 1152w, https://jtmoreland.com//wp-content/uploads/2023/10/20231025_171520-rotated.jpg 1403w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="768" height="1024" src="https://jtmoreland.com/wp-content/uploads/2023/10/20231025_171520-768x1024.jpg" alt="" class="wp-image-137" srcset="https://jtmoreland.com/wp-content/uploads/2023/10/20231025_171520-768x1024.jpg 768w, https://jtmoreland.com/wp-content/uploads/2023/10/20231025_171520-225x300.jpg 225w, https://jtmoreland.com/wp-content/uploads/2023/10/20231025_171520-1152x1536.jpg 1152w, https://jtmoreland.com/wp-content/uploads/2023/10/20231025_171520-rotated.jpg 1403w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
 </div>
 </div>
 
