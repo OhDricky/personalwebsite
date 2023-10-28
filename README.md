@@ -1,1 +1,1 @@
-# Personal website - jtmoreland.com
+# Personal website
